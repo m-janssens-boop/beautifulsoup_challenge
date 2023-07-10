@@ -12,6 +12,7 @@ Extract information from the [Mars News Website](https://static.bc-edx.com/data/
   - Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: `title` and `preview`.
   - Store all the dictionaries in a Python list.
   - Print the list in the notebook.
+<img width="900" alt="Screenshot 2023-07-09 at 9 54 53 PM" src="https://github.com/m-janssens-boop/beautifulsoup_challenge/assets/127706155/df691b1f-b76a-4394-8567-28a3769cbb66">
 
 #### Part 2: Scrape and Analyze Mars Weather Data ####
 - Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
@@ -32,9 +33,13 @@ Extract information from the [Mars News Website](https://static.bc-edx.com/data/
   - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
   - Find the average minimum daily temperature for all of the months.
   - Plot the results as a bar chart.
+<img width="579" alt="Screenshot 2023-07-09 at 9 56 23 PM" src="https://github.com/m-janssens-boop/beautifulsoup_challenge/assets/127706155/e3bdfb36-2412-47b1-a318-41f9aac56b6f">
+
   - Which months have the lowest and the highest atmospheric pressure on Mars? This is done by:
     - Finding the average daily atmospheric pressure of all the months.
     - Plotting the results as a bar chart.
   - About how many terrestrial (Earth) days exist in a Martian year? This is done by:
     - Considering how many days elapse on Earth in the time that Mars circles the Sun once.
     - Visually estimating the result by plotting the daily minimum temperature.
+<img width="895" alt="Screenshot 2023-07-09 at 9 56 42 PM" src="https://github.com/m-janssens-boop/beautifulsoup_challenge/assets/127706155/3804791b-5435-4f4a-8d2d-6be6883dfcc0">
+
